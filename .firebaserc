@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "smartgarbage-f4f3b",
+    "smartgarbage": "smartgarbage-f4f3b"
+  },
+  "targets": {}
+}

@@ -1,0 +1,21 @@
+
+/*   
+  .Head{
+    text-align: center;
+    color: green;
+    text-decoration: dotted;
+    text-decoration: underline;
+  }
+  .Box{
+    margin-left: 20px;  
+    margin-right: 20px;
+    height: auto;  
+    border: 5px double green;
+    padding: 10px;
+    
+    
+  } */
+.box{
+  height: 100px;
+  width: 100px;
+}
